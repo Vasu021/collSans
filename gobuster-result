@@ -1,0 +1,132 @@
+===============================================================
+Gobuster v3.1.0
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://collegesansaar.com
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirb/common.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.1.0
+[+] Expanded:                true
+[+] Timeout:                 10s
+===============================================================
+2021/07/26 16:50:44 Starting gobuster in directory enumeration mode
+===============================================================
+http://collegesansaar.com/.git/HEAD            (Status: 403) [Size: 699]
+http://collegesansaar.com/.hta                 (Status: 403) [Size: 699]
+http://collegesansaar.com/.htaccess            (Status: 403) [Size: 699]
+http://collegesansaar.com/.htpasswd            (Status: 403) [Size: 699]
+http://collegesansaar.com/.svn/entries         (Status: 403) [Size: 699]
+http://collegesansaar.com/.svn                 (Status: 403) [Size: 699]
+http://collegesansaar.com/~adm                 (Status: 301) [Size: 707] [--> http://collegesansaar.com/~adm/]
+http://collegesansaar.com/~admin               (Status: 301) [Size: 707] [--> http://collegesansaar.com/~admin/]
+http://collegesansaar.com/~administrator       (Status: 301) [Size: 707] [--> http://collegesansaar.com/~administrator/]
+http://collegesansaar.com/~amanda              (Status: 301) [Size: 707] [--> http://collegesansaar.com/~amanda/]       
+http://collegesansaar.com/~bin                 (Status: 301) [Size: 707] [--> http://collegesansaar.com/~bin/]          
+http://collegesansaar.com/~ftp                 (Status: 301) [Size: 707] [--> http://collegesansaar.com/~ftp/]          
+http://collegesansaar.com/~apache              (Status: 301) [Size: 707] [--> http://collegesansaar.com/~apache/]       
+http://collegesansaar.com/~guest               (Status: 301) [Size: 707] [--> http://collegesansaar.com/~guest/]        
+http://collegesansaar.com/~http                (Status: 301) [Size: 707] [--> http://collegesansaar.com/~http/]         
+http://collegesansaar.com/~httpd               (Status: 301) [Size: 707] [--> http://collegesansaar.com/~httpd/]        
+http://collegesansaar.com/~logs                (Status: 301) [Size: 707] [--> http://collegesansaar.com/~logs/]         
+http://collegesansaar.com/~lp                  (Status: 301) [Size: 707] [--> http://collegesansaar.com/~lp/]           
+http://collegesansaar.com/~mail                (Status: 301) [Size: 707] [--> http://collegesansaar.com/~mail/]         
+http://collegesansaar.com/~nobody              (Status: 301) [Size: 707] [--> http://collegesansaar.com/~nobody/]       
+http://collegesansaar.com/~sys                 (Status: 301) [Size: 707] [--> http://collegesansaar.com/~sys/]          
+http://collegesansaar.com/~log                 (Status: 301) [Size: 707] [--> http://collegesansaar.com/~log/]          
+http://collegesansaar.com/~sysadmin            (Status: 301) [Size: 707] [--> http://collegesansaar.com/~sysadmin/]     
+http://collegesansaar.com/~test                (Status: 301) [Size: 707] [--> http://collegesansaar.com/~test/]         
+http://collegesansaar.com/~operator            (Status: 301) [Size: 707] [--> http://collegesansaar.com/~operator/]     
+http://collegesansaar.com/~tmp                 (Status: 301) [Size: 707] [--> http://collegesansaar.com/~tmp/]          
+http://collegesansaar.com/~root                (Status: 301) [Size: 707] [--> http://collegesansaar.com/~root/]         
+http://collegesansaar.com/~webmaster           (Status: 301) [Size: 707] [--> http://collegesansaar.com/~webmaster/]    
+http://collegesansaar.com/~user                (Status: 301) [Size: 707] [--> http://collegesansaar.com/~user/]         
+http://collegesansaar.com/~www                 (Status: 301) [Size: 707] [--> http://collegesansaar.com/~www/]          
+http://collegesansaar.com/~sysadm              (Status: 301) [Size: 707] [--> http://collegesansaar.com/~sysadm/]       
+http://collegesansaar.com/0                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/]                 
+http://collegesansaar.com/A                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/about/]           
+http://collegesansaar.com/a                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/about/]           
+http://collegesansaar.com/about                (Status: 301) [Size: 0] [--> http://collegesansaar.com/about/]           
+http://collegesansaar.com/About                (Status: 301) [Size: 0] [--> http://collegesansaar.com/About/]           
+http://collegesansaar.com/addreply             (Status: 500) [Size: 2527]                                               
+http://collegesansaar.com/address              (Status: 500) [Size: 2527]                                               
+http://collegesansaar.com/admin                (Status: 302) [Size: 0] [--> http://collegesansaar.com/wp-admin/]        
+http://collegesansaar.com/atom                 (Status: 301) [Size: 0] [--> http://collegesansaar.com/feed/atom/]       
+http://collegesansaar.com/c                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/contact/]         
+http://collegesansaar.com/C                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/contact/]         
+http://collegesansaar.com/ca                   (Status: 301) [Size: 0] [--> http://collegesansaar.com/career-option/]   
+http://collegesansaar.com/car                  (Status: 301) [Size: 0] [--> http://collegesansaar.com/career-option/]   
+http://collegesansaar.com/career               (Status: 301) [Size: 0] [--> http://collegesansaar.com/career-option/]   
+http://collegesansaar.com/cart                 (Status: 301) [Size: 0] [--> http://collegesansaar.com/cart/]            
+http://collegesansaar.com/ch                   (Status: 301) [Size: 0] [--> http://collegesansaar.com/checkout/]        
+http://collegesansaar.com/check                (Status: 301) [Size: 0] [--> http://collegesansaar.com/checkout/]        
+http://collegesansaar.com/checkout             (Status: 301) [Size: 0] [--> http://collegesansaar.com/checkout/]        
+http://collegesansaar.com/co                   (Status: 301) [Size: 0] [--> http://collegesansaar.com/contact/]         
+http://collegesansaar.com/comment-page-1       (Status: 301) [Size: 0] [--> http://collegesansaar.com/]                 
+http://collegesansaar.com/con                  (Status: 301) [Size: 0] [--> http://collegesansaar.com/contact/]         
+http://collegesansaar.com/cont                 (Status: 301) [Size: 0] [--> http://collegesansaar.com/contact/]         
+http://collegesansaar.com/contact              (Status: 301) [Size: 0] [--> http://collegesansaar.com/contact/]         
+http://collegesansaar.com/Contact              (Status: 301) [Size: 0] [--> http://collegesansaar.com/Contact/]         
+http://collegesansaar.com/dashboard            (Status: 302) [Size: 0] [--> http://collegesansaar.com/wp-admin/]        
+http://collegesansaar.com/e                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/elementor-1570/]  
+http://collegesansaar.com/E                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/elementor-1570/]  
+http://collegesansaar.com/el                   (Status: 301) [Size: 0] [--> http://collegesansaar.com/elementor-1570/]  
+http://collegesansaar.com/element              (Status: 301) [Size: 0] [--> http://collegesansaar.com/elementor-1570/]  
+http://collegesansaar.com/embed                (Status: 301) [Size: 0] [--> http://collegesansaar.com/]                 
+http://collegesansaar.com/error_log            (Status: 200) [Size: 5319]                                               
+http://collegesansaar.com/f                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/features/]        
+http://collegesansaar.com/F                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/features/]        
+http://collegesansaar.com/feature              (Status: 301) [Size: 0] [--> http://collegesansaar.com/features/]        
+http://collegesansaar.com/features             (Status: 301) [Size: 0] [--> http://collegesansaar.com/features/]        
+http://collegesansaar.com/feed                 (Status: 301) [Size: 0] [--> http://collegesansaar.com/feed/]            
+http://collegesansaar.com/h                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/]                 
+http://collegesansaar.com/H                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/]                 
+http://collegesansaar.com/home                 (Status: 301) [Size: 0] [--> http://collegesansaar.com/]                 
+http://collegesansaar.com/Home                 (Status: 301) [Size: 0] [--> http://collegesansaar.com/]                 
+http://collegesansaar.com/index.php            (Status: 301) [Size: 0] [--> http://collegesansaar.com/]                 
+http://collegesansaar.com/login                (Status: 302) [Size: 0] [--> http://collegesansaar.com/wp-login.php]     
+http://collegesansaar.com/m                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/my-account/]      
+http://collegesansaar.com/M                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/my-account/]      
+http://collegesansaar.com/my                   (Status: 301) [Size: 0] [--> http://collegesansaar.com/my-account/]      
+http://collegesansaar.com/my-account           (Status: 301) [Size: 0] [--> http://collegesansaar.com/my-account/]      
+http://collegesansaar.com/p                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/privacy-policy/]  
+http://collegesansaar.com/P                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/privacy-policy/]  
+http://collegesansaar.com/page1                (Status: 301) [Size: 0] [--> http://collegesansaar.com/]                 
+http://collegesansaar.com/page2                (Status: 301) [Size: 0] [--> http://collegesansaar.com/page/2/]          
+http://collegesansaar.com/pr                   (Status: 301) [Size: 0] [--> http://collegesansaar.com/privacy-policy/]  
+http://collegesansaar.com/priv                 (Status: 301) [Size: 0] [--> http://collegesansaar.com/privacy-policy/]  
+http://collegesansaar.com/privacy              (Status: 301) [Size: 0] [--> http://collegesansaar.com/privacy-policy/]  
+http://collegesansaar.com/Privacy              (Status: 301) [Size: 0] [--> http://collegesansaar.com/privacy-policy/]  
+http://collegesansaar.com/privacy-policy       (Status: 301) [Size: 0] [--> http://collegesansaar.com/privacy-policy/]  
+http://collegesansaar.com/rdf                  (Status: 301) [Size: 0] [--> http://collegesansaar.com/feed/rdf/]        
+http://collegesansaar.com/robots.txt           (Status: 200) [Size: 166]                                                
+http://collegesansaar.com/rss                  (Status: 301) [Size: 0] [--> http://collegesansaar.com/feed/]            
+http://collegesansaar.com/rss2                 (Status: 301) [Size: 0] [--> http://collegesansaar.com/feed/]            
+http://collegesansaar.com/s                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/services/]        
+http://collegesansaar.com/S                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/services/]        
+http://collegesansaar.com/se                   (Status: 301) [Size: 0] [--> http://collegesansaar.com/services/]        
+http://collegesansaar.com/serv                 (Status: 301) [Size: 0] [--> http://collegesansaar.com/services/]        
+http://collegesansaar.com/service              (Status: 301) [Size: 0] [--> http://collegesansaar.com/services/]        
+http://collegesansaar.com/services             (Status: 301) [Size: 0] [--> http://collegesansaar.com/services/]        
+http://collegesansaar.com/Services             (Status: 301) [Size: 0] [--> http://collegesansaar.com/Services/]        
+http://collegesansaar.com/sh                   (Status: 301) [Size: 0] [--> http://collegesansaar.com/shop/]            
+http://collegesansaar.com/shop                 (Status: 301) [Size: 0] [--> http://collegesansaar.com/shop/]            
+http://collegesansaar.com/sitemap.xml          (Status: 200) [Size: 1558]                                               
+http://collegesansaar.com/subject              (Status: 500) [Size: 2527]                                               
+http://collegesansaar.com/t                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/terms-and-condition/]
+http://collegesansaar.com/T                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/terms-and-condition/]
+http://collegesansaar.com/te                   (Status: 301) [Size: 0] [--> http://collegesansaar.com/terms-and-condition/]
+http://collegesansaar.com/term                 (Status: 301) [Size: 0] [--> http://collegesansaar.com/terms-and-condition/]
+http://collegesansaar.com/terms                (Status: 301) [Size: 0] [--> http://collegesansaar.com/terms-and-condition/]
+http://collegesansaar.com/tr                   (Status: 301) [Size: 0] [--> http://collegesansaar.com/trail-checking/]     
+http://collegesansaar.com/v                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/vsvsv/]              
+http://collegesansaar.com/V                    (Status: 301) [Size: 0] [--> http://collegesansaar.com/vsvsv/]              
+http://collegesansaar.com/vs                   (Status: 301) [Size: 0] [--> http://collegesansaar.com/vsvsv/]              
+http://collegesansaar.com/wp-admin             (Status: 301) [Size: 707] [--> http://collegesansaar.com/wp-admin/]         
+http://collegesansaar.com/wp-content           (Status: 301) [Size: 707] [--> http://collegesansaar.com/wp-content/]       
+http://collegesansaar.com/wp-includes          (Status: 301) [Size: 707] [--> http://collegesansaar.com/wp-includes/]      
+http://collegesansaar.com/xmlrpc.php           (Status: 405) [Size: 42]                                                    
+===============================================================
+2021/07/26 17:16:50 Finished
+===============================================================
